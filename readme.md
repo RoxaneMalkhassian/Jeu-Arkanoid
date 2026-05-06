@@ -1,0 +1,1 @@
+Voici le lien vers le cours : https://francoisbrucker.github.io/cours_informatique/cours/coder-et-d%C3%A9velopper/gestion-d%C3%A9pendances/ 
